@@ -1,5 +1,5 @@
 # Wireless Redstone Tilesets Creator (NOT DONE YET!!!)
-WRTC(Wireless Redstone Tilesets Creator) is a tool for creating tilesets for connecting wireless redstone machines based on the mechanics of the item falling phase by 2No2Name. The program is designed for cubicmeter's design of wireless communicators, but the difference in design should not affect the way it works. WRTC is **NOT DONE YET**
+WRTC(Wireless Redstone Tilesets Creator) is a tool for creating tilesets for connecting wireless redstone machines based on the mechanics of the item falling phase by 2No2Name. The program is designed for [cubicmetre's design of wireless communicators](https://youtu.be/sBNuqZKa_Lw?si=QgfFBxgdYsOcSF7y), but the difference in design should not affect the way it works. WRTC is **NOT DONE YET**
 
 # What does WRTC do?
 Wireless Redstone Tilesets Creator creates wireless redstone tilesets! You wouldn't have guessed, right?<br>
