@@ -1,0 +1,8 @@
+#PyCharm stuff
+.idea
+
+#virtualenv
+.venv
+
+#just tests
+tests
